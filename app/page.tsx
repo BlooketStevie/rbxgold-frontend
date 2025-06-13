@@ -176,7 +176,7 @@ export default function RBXGoldPage() {
 
         {/* Footer */}
         <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2">
-          <p className="text-purple-300 text-sm animate-pulse">* No actual money will be taken (probably)</p>
+          <p className="text-purple-300 text-sm animate-pulse">* We hate you btw</p>
         </div>
       </div>
 
